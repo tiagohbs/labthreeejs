@@ -1,0 +1,6 @@
+{
+  "name": "Gerador de Terreno Procedural 3D",
+  "description": "Um gerador de terreno e biomas em 3D usando algoritmo de ruído de Perlin, com controle de semente, água, vegetação e interações para esculpir e construir em tempo real usando Three.js.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
